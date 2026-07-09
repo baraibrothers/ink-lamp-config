@@ -5,7 +5,7 @@
   "configTtlSec": 600,
   "sendIntervalSec": 60,
   "endpoints": {
-    "heartbeat": "https://api.baraibrothers.ink/api/v1/heartbeat"
+    "heartbeat": "http://192.168.1.7:7070/api/v1/heartbeat"
   },
   "request": {
     "method": "POST",
