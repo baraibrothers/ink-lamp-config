@@ -4,7 +4,7 @@
   "youtubeJoin": "https://www.youtube.com/@yourchannel",
   "facebookJoin": "https://www.facebook.com/yourpage",
   "instagramJoin": "https://www.instagram.com/yourhandle/",
-  "showYoutube": "T",
-  "showFacebook": "F",
-  "showInstagram": "T"
+  "showYoutube": "F",
+  "showFacebook": "T",
+  "showInstagram": "F"
 }
