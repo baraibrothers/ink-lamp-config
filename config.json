@@ -4,16 +4,9 @@
   "updatedAt": "2026-07-08T00:00:00Z",
   "configTtlSec": 600,
   "sendIntervalSec": 60,
-
   "endpoints": {
     "heartbeat": "https://api.baraibrothers.ink/api/v1/heartbeat"
   },
-
-  "links": {
-    "discordJoin": "https://discord.gg/N9Ymchp2F",
-    "whatsappJoin": "https://chat.whatsapp.com/CWYQJdJ2F4E7aoxNpmkBAW?s=cl&p=a&ilr=4"
-  },
-
   "request": {
     "method": "POST",
     "contentType": "application/json",
